@@ -1,5 +1,5 @@
 # Testing Grounds
-A Hunger-Games inspired FPS with large outdoor terrains. Advanced AI, basic networking, pickups, skeletal meshes, checkpoints and more. Game done together with UE4/C++ course.
+A Hunger-Games inspired FPS with large outdoor terrains, advanced AI, skeletal meshes, checkpoints and more. Created together with UE4/C++ course.
 
 Commits:
 1. Initial commit.
@@ -46,3 +46,4 @@ Commits:
 1. README.md created.
 1. Update README.md.
 1. Another update README.md.
+1. Update of the project description in README.md.
